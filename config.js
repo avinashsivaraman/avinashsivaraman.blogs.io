@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: '',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Avinash Sivaraman',
+  subtitle: '',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'Avinash',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Avinash Sivaraman',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'PWA, Full Stack Developer, Node, Docker. Love Open Source ❤️.',
     contacts: {
-      email: '',
+      email: 'asivara6@asu.edu',
       facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      telegram: '',
+      twitter: 'AvinashSivaram',
+      github: 'avinashsivaraman',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'avinashsivaraman',
       instagram: '#',
       line: '',
       gitlab: '',
