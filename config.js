@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://avinashsivaraman.github.io/blogs',
-  pathPrefix: '/',
+  pathPrefix: '/blogs',
   title: 'Blog by Avinash Sivaraman',
   subtitle: '',
   copyright: '© All rights reserved.',
