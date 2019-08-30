@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: '',
+  url: 'https://avinashsivaraman.github.io/blogs',
   pathPrefix: '/',
   title: 'Blog by Avinash Sivaraman',
   subtitle: '',
